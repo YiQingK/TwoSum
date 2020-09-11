@@ -1,1 +1,2 @@
 # TwoSum
+By YiQing Khoo
